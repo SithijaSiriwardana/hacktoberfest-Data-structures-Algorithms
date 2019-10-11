@@ -1,0 +1,28 @@
+
+>Query description string 1
+[>KJ668651.1 Tetraselmis subcordiformis transgenic GFP (gfp) gene] query found at index -> 7
+[>KU306402.1 Cloning vector pJV53-GFP] query found at index -> 258
+[>JX445134.1 Insertion vector scAAV-CMV-GFP] query found at index -> 185
+[>FJ455409.1 Fusion vector pFRT2-gfp-Tel] query found at index -> 278
+
+>Query description string 2
+[>KF040389.1 Cloning vector pCN-LYS21-GFP] query found at index -> 348
+[>AB262455.1 Transposon vector T2AL200L200G DNA] query found at index -> 131
+
+>Query description string 3
+[>KJ668651.1 Tetraselmis subcordiformis transgenic GFP (gfp) gene] query found at index -> 173
+[>LN515608.1 Synthetic construct for Aequorea victoria partial gfp gene for GFP] query found at index -> 1
+[>KU306402.1 Cloning vector pJV53-GFP] query found at index -> 166
+[>MK371209.1 Synthetic construct clone Sp_4004H24 sequence] query found at index -> 102
+[>MK371208.1 Synthetic construct clone Sp_44J22 sequence] query found at index -> 37
+[>KF040393.1 Cloning vector pCN-MET3-GFP] query found at index -> 70
+[>KF040389.1 Cloning vector pCN-LYS21-GFP] query found at index -> 70
+[>GQ889498.1 Recombineering donor plasmid pDOC-G] query found at index -> 290
+[>EF143813.2 Expression vector pCeMM-NTAP(GS)-Gw] query found at index -> 9
+[>AB262455.1 Transposon vector T2AL200L200G DNA] query found at index -> 7
+[>EU483152.1 Shuttle vector pMQ122] query found at index -> 292
+[>MK753227.1 Escherichia coli str] query found at index -> 82
+[>HM151400.1 GFP expression vector pHapII] query found at index -> 70
+
+>Query description string 4
+query is not found in the database

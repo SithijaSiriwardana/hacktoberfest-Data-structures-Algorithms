@@ -1,0 +1,23 @@
+Text - ahelloworldhello
+pattern - hel__
+pattern found at index ->1
+
+pattern found at index ->11
+
+Text - heisagoodboy
+pattern - i_a
+pattern found at index ->2
+
+text and pattern lines are empty
+Text - todayworldgone
+pattern - w___d
+pattern found at index ->5
+
+Text - deadlinetommorow
+pattern - __ad
+pattern found at index ->0
+
+Text - youareto
+pattern - i_a
+pattern is not found
+
