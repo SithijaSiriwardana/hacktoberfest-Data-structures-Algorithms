@@ -9,7 +9,7 @@ int main()
     int i, j, rows;
     int stars, spaces;
    
-    printf("Enter rows to print : ");
+    printf("Enter rows to print(needs to be a number) : ");
     scanf("%d", &rows);
     
     
