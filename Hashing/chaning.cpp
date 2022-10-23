@@ -59,6 +59,7 @@ for (int i = 0; i < BUCKET; i++) {
 
 int main() 
 { 
+cout << "starting chaining hashing algo script";
 int a[] = {15, 11, 27, 8, 12}; 
 int n = sizeof(a)/sizeof(a[0]); 
 
