@@ -28,7 +28,7 @@ main()
 {
     char exp[20];
     char *e, x;
-    printf("Enter the expression :: ");
+    printf("Enter a correct expression :: ");
     scanf("%s",exp);
     e = exp;
     while(*e != '\0')
